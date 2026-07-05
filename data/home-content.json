@@ -1,0 +1,45 @@
+{
+  "topics": [
+    {
+      "title": "Routing",
+      "description": "Create files inside the app folder to make pages automatically.",
+      "href": "/about"
+    },
+    {
+      "title": "Components",
+      "description": "Break big UIs into smaller reusable React pieces.",
+      "href": "/topics"
+    },
+    {
+      "title": "Client State",
+      "description": "Use useState in client components for interactive UI.",
+      "href": "/counter"
+    }
+  ],
+  "profiles": [
+    {
+      "name": "Ariana Scott",
+      "designation": "Frontend Developer",
+      "description": "Builds thoughtful interfaces and turns design ideas into responsive React components.",
+      "image": "",
+      "initials": "AS",
+      "accent": "from-amber-500 via-orange-500 to-rose-500"
+    },
+    {
+      "name": "Daniel Lee",
+      "designation": "UI Designer",
+      "description": "Focuses on layouts, typography, and clean visual systems that feel easy to use.",
+      "image": "",
+      "initials": "DL",
+      "accent": "from-sky-500 via-cyan-500 to-emerald-500"
+    },
+    {
+      "name": "Maya Patel",
+      "designation": "Content Strategist",
+      "description": "Writes short, clear copy and helps shape the content that appears across the site.",
+      "image": "",
+      "initials": "MP",
+      "accent": "from-fuchsia-500 via-pink-500 to-orange-400"
+    }
+  ]
+}
