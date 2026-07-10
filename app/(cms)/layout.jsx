@@ -26,6 +26,9 @@ const workSans = Work_Sans({
 export const metadata = {
   title: "Learn Next.js",
   description: "A beginner-friendly Next.js starter project",
+  icons: [{ rel: "icon", url: "/favicon.png" }],
+  authors: [{ name: "Subhomoy Pal", url: "https://subhomoypal.com" }],
+  keywords: ["Next.js", "React", "JavaScript", "Web Development"],
 };
 
 export default function RootLayout({ children }) {
