@@ -24,7 +24,10 @@ const workSans = Work_Sans({
 });
 
 export const metadata = {
-  title: "Learn Next.js",
+  title: {
+    default: "Next.js Starter Project",
+    template: "%s | Next.js Starter Project",
+  },
   description: "A beginner-friendly Next.js starter project",
   icons: [{ rel: "icon", url: "/favicon.png" }],
   authors: [{ name: "Subhomoy Pal", url: "https://subhomoypal.com" }],
