@@ -8,6 +8,7 @@ const links = [
   { href: "/counter", label: "Counter" },
   { href: "/contact", label: "Contact" },
   { href: "/dataFetch", label: "Data Fetch" },
+  { href: "/blog", label: "Blog" },
 ];
 
 export default function Navbar() {
