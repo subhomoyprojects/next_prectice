@@ -9,6 +9,7 @@ const links = [
   { href: "/contact", label: "Contact" },
   { href: "/dataFetch", label: "Data Fetch" },
   { href: "/blog", label: "Blog" },
+  { href: "/searchParams", label: "Search Params" },
 ];
 
 export default function Navbar() {
