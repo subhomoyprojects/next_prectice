@@ -10,6 +10,7 @@ const links = [
   { href: "/dataFetch", label: "Data Fetch" },
   { href: "/blog", label: "Blog" },
   { href: "/searchParams", label: "Search Params" },
+  { href: "/projects/jokes", label: "Jokes" },
 ];
 
 export default function Navbar() {
